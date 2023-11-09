@@ -1,4 +1,4 @@
-# 1-013-Hours--British-English-Spontaneous-Speech-Data
+# 1013-Hours--British-English-Spontaneous-Speech-Data
 
 ## Description
 1,013 Hours – British English Spontaneous Speech Data, the content covering multiple topics. All the speech audio was manually transcribed into text content; speaker identity, gender, and other attribution are also annotated. This dataset can be used for voiceprint recognition model training, corpus construction for machine translation, and algorithm research introduction
